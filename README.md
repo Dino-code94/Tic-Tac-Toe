@@ -41,7 +41,7 @@ Unfortunately , I haven't had the chance to get any actual feedback from friends
 
 | Feature | Description | Screenshot |
 | :---: | :---: | :---: |
-| **Welcoming message** | Welcome message with some simple game rules. | ![screenshot]() |
+| **Welcoming message** | Welcome message and some simple game rules. | ![welcoming message](https://github.com/user-attachments/assets/3eb3de3b-d6fc-4292-80a5-77fb43444f92)|
 | **Invalid input** | Player must choose numbers from 1 to 9 otherwise this message will be shown. | ![screenshot]() |
 | **Draw** | If all cells are filled and no player has won, the game ends in a draw. | ![screenshot]() |
 | **Already taken position** | Players are not allowed to repeat same number twice. | ![screenshot]() |
