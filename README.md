@@ -35,6 +35,19 @@
 
 Unfortunately , I haven't had the chance to get any actual feedback from friends or from the family.
 
+## Features
+
+### Existing Features
+
+| Feature | Description | Screenshot |
+| :---: | :---: | :---: |
+| **Welcoming message** | Welcome message with some simple game rules. | ![screenshot]() |
+| **Invalid input** | Player must choose numbers from 1 to 9 otherwise this message will be shown. | ![screenshot]() |
+| **Draw** | If all cells are filled and no player has won, the game ends in a draw. | ![screenshot]() |
+| **Already taken position** | Players are not allowed to repeat same number twice. | ![screenshot]() |
+| **Player wins** | Wining message. | ![screenshot]() |
+
+
 
 
  
