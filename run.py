@@ -115,3 +115,9 @@ while turn < 9:
 
     turn += 1
     print_board()
+
+    # Check if player 2 is the winner.
+    player_2_stat = check_win(2)
+    if player_2_stat:
+        print('Player 2 WINS')
+        break
