@@ -69,7 +69,7 @@ I have used the [Pythonium](https://pythonium.net/linter) to validate my Python 
 
 The site was deployed to Heroku.
 
-- In the [Heroku]()
+- In the [Heroku](https://dashboard.heroku.com/apps/dinok94-xs-and-xo-project/deploy/github)
 
 ## Credits
 
