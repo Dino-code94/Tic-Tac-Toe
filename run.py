@@ -70,6 +70,7 @@ turn = 0
 
 # Game loop
 while turn < 9:
+    
     # Player 1's turn.
     while True:
         try:
@@ -88,7 +89,7 @@ while turn < 9:
     print_board()       
     
 
-    # Check if player 1 is the winner or if it's a draw.
+            # Check if player 1 is the winner or if it's a draw.
     if turn == 9:
         print('Draw')
         break
@@ -97,3 +98,12 @@ while turn < 9:
     if player_1_stat:
         print('Player 1 WINS')
         break
+    
+        # Player 2's turn.
+    while True:
+        try:
+            p2_position = int(input("Player 2 enter position number (1 through 9): ")) - 1
+            if 0 <= p2_position <= 8 and board[p2_position] == 0:
+                board[p2_position] = 2
+                break
+            
