@@ -86,3 +86,14 @@ while turn < 9:
 
     turn += 1
     print_board()       
+    
+
+    # Check if player 1 is the winner or if it's a draw.
+    if turn == 9:
+        print('Draw')
+        break
+
+    player_1_stat = check_win(1)
+    if player_1_stat:
+        print('Player 1 WINS')
+        break
