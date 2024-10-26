@@ -47,6 +47,14 @@ Unfortunately , I haven't had the chance to get any actual feedback from friends
 | **Already taken position** | Players are not allowed to repeat same number twice or use letter. | ![already taken position](https://github.com/user-attachments/assets/56aebd44-2fbc-43d5-95b2-3bf9cd40200c)|
 | **Player wins** | Wining message. | ![Player wins](https://github.com/user-attachments/assets/b541405f-9ebe-442b-a319-f960ea6dcf27)|
 
+## Tools & Technologies Used
+
+- [Python](https://www.python.org/) used for the main program content.
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`,`git pull`,`git reset HEAD~1`)
+- [GitHub](https://github.com) used for secure online code storage.
+- [Heroku](https://www.heroku.com) used for hosting the deployed front-end site.
+- [Pi] (https:/www.pi.ai/talk) used for finding faults with syntax and indentation.
+
 
 
 
