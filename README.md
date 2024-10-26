@@ -50,7 +50,7 @@ Unfortunately , I haven't had the chance to get any actual feedback from friends
 ## Tools & Technologies Used
 
 - [Python](https://www.python.org/) used for the main program content.
-- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`,`git pull`,`git reset HEAD~1`)
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`,`git pull`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [Heroku](https://www.heroku.com) used for hosting the deployed front-end site.
 - [Pi] (https:/www.pi.ai/talk) used for finding faults with syntax and indentation.
