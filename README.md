@@ -42,10 +42,10 @@ Unfortunately , I haven't had the chance to get any actual feedback from friends
 | Feature | Description | Screenshot |
 | :---: | :---: | :---: |
 | **Welcoming message** | Welcome message and some simple game rules. | ![welcoming message](https://github.com/user-attachments/assets/3eb3de3b-d6fc-4292-80a5-77fb43444f92)|
-| **Invalid input** | Player must choose numbers from 1 to 9 otherwise this message will be shown. | ![screenshot]() |
-| **Draw** | If all cells are filled and no player has won, the game ends in a draw. | ![screenshot]() |
-| **Already taken position** | Players are not allowed to repeat same number twice. | ![screenshot]() |
-| **Player wins** | Wining message. | ![screenshot]() |
+| **Invalid input** | Player must choose numbers from 1 to 9 otherwise this message will be shown. |  |
+| **Draw** | If all cells are filled and no player has won, the game ends in a draw. | ![draw](https://github.com/user-attachments/assets/6a083854-a463-4832-a05a-5c13a8b106d2)|
+| **Already taken position** | Players are not allowed to repeat same number twice. | |
+| **Player wins** | Wining message. | |
 
 
 
