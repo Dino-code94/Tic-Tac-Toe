@@ -55,6 +55,26 @@ Unfortunately , I haven't had the chance to get any actual feedback from friends
 - [Heroku](https://www.heroku.com) used for hosting the deployed front-end site.
 - [Pi] (https:/www.pi.ai/talk) used for finding faults with syntax and indentation.
 
+## Code Validation
+
+### Python
+
+I have used the []() to validate my Python files.
+
+| Page | Screenshot | Notes |
+| :---: | :---: | :---: |
+| Index | | All clear, no errors found.|
+
+## Deployment
+
+The site was deployed to Heroku.
+
+- In the [Heroku]()
+
+## Credits
+
+The following are credits to various people and technologies that have directly or otherwise assisted in the creation of this game.
+
 
 
 
