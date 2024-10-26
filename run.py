@@ -64,3 +64,7 @@ def check_win(num):
       return True
     else:
       return False
+# Turn counter
+turn = 0
+
+
