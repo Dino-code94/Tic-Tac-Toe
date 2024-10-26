@@ -21,5 +21,17 @@
 - The game starts with a welcome message and with some simple game rules.
 - Players take turns entering their moves until a player wins or the game ends in a draw.
 - The current state of the board is displayed after each move.
-- When the game is over, in terminal script `python run.py` will run the game again. 
+- When the game is over, in terminal script `python run.py` will run the game again.
+
+### Colour Scheme
+
+- Colour scheme is limited to a black background and white text.
+
+### Typography
+
+- The Typography is limited to the terminal font used within the basic Heroku utility.
+
+## User Stories
+
+Unfortunately , I haven't had the chance to get any actual feedback from friends or from the family.
  
