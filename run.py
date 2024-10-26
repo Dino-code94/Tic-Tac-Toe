@@ -64,9 +64,11 @@ def check_win(num):
       return True
     else:
       return False
+
 # Turn counter
 turn = 0
 
+# Game loop
 while turn < 9:
     # Player 1's turn.
     while True:
@@ -74,4 +76,13 @@ while turn < 9:
             p1_position = int(input("Player 1 enter position number (1 through 9): ")) - 1
             if 0 <= p1_position <= 8 and board[p1_position] == 0:
                 board[p1_position] = 1
-                break       
+                break
+            elif p1_position < 0 or p1_position > 8:
+                print('Invalid position number. Please enter a number between 1 and 9.')
+            else:
+                print('Position already taken. Please choose another position.')
+        except ValueError:
+            print('Invalid input. Please enter a number.')
+
+    turn += 1
+    print_board()       
