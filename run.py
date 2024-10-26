@@ -67,4 +67,11 @@ def check_win(num):
 # Turn counter
 turn = 0
 
-
+while turn < 9:
+    # Player 1's turn.
+    while True:
+        try:
+            p1_position = int(input("Player 1 enter position number (1 through 9): ")) - 1
+            if 0 <= p1_position <= 8 and board[p1_position] == 0:
+                board[p1_position] = 1
+                break       
