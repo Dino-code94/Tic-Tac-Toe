@@ -106,4 +106,12 @@ while turn < 9:
             if 0 <= p2_position <= 8 and board[p2_position] == 0:
                 board[p2_position] = 2
                 break
-            
+            elif p2_position < 0 or p2_position > 8:
+                print('Invalid position number. Please enter a number between 1 and 9.')
+            else:
+                print('Position already taken. Please choose another position.')
+        except ValueError:
+            print('Invalid input. Please enter a number.')
+
+    turn += 1
+    print_board()
