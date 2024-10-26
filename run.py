@@ -24,3 +24,11 @@ board = [
   0,0,0,
   0,0,0
   ]
+
+def print_board():
+  display_positon = ['-', '-', '-', '-', '-', '-', '-', '-', '-']
+  for i in range(9):
+    if board[i] == 1:
+      display_positon[i] = 'X'
+    elif board[i] == 2:
+      display_positon[i] = 'O'
