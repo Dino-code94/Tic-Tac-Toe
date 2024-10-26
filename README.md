@@ -79,11 +79,11 @@ The following are credits to various people and technologies that have directly 
 
 | Source | Location | Notes |
 | --- | --- | --- |
-| [Python.org](https://www.python.org) | Research | 
-| [YouTube](https://www.youtube.com/watch?v=WZNG8UomjSI&t=1783s) | Research | 
-| [Stack Overflow](https://stackoverflow.com/) | Research | additional Python research |
-| [She Codes](https://shecodes.io/) | Research | Python research |
-| [Geeks for Geeks](https://geeksforgeeks.org/) | Research | additional Python research |
+| [Python.org](https://www.python.org) | Research | learning functions |  
+| [YouTube](https://www.youtube.com/watch?v=WZNG8UomjSI&t=1783s) | Research | better understanding of many functions |
+| [Stack Overflow](https://stackoverflow.com/) | Research | more Python research |
+| [She Codes](https://shecodes.io/) | Research | more Python research |
+| [Geeks for Geeks](https://geeksforgeeks.org/) | Research | more Python research |
 | [Pi](https:/www.pi.ai/talk) | Validation | additional Python research and checking for syntax and indentation errors |
 
 
