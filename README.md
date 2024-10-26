@@ -59,11 +59,11 @@ Unfortunately , I haven't had the chance to get any actual feedback from friends
 
 ### Python
 
-I have used the []() to validate my Python files.
+I have used the [Pythonium](https://pythonium.net/linter) to validate my Python syntax.
 
 | Page | Screenshot | Notes |
 | :---: | :---: | :---: |
-| Index | | All clear, no errors found.|
+| Index | ![code validatation](https://github.com/user-attachments/assets/f888cf71-d254-4877-aadc-148dd9948820)| All clear, no errors found.|
 
 ## Deployment
 
@@ -74,6 +74,18 @@ The site was deployed to Heroku.
 ## Credits
 
 The following are credits to various people and technologies that have directly or otherwise assisted in the creation of this game.
+
+### Content and Code
+
+| Source | Location | Notes |
+| --- | --- | --- |
+| [Python.org](https://www.python.org) | Research | 
+| [YouTube](https://www.youtube.com/watch?v=WZNG8UomjSI&t=1783s) | Research | 
+| [Stack Overflow](https://stackoverflow.com/) | Research | additional Python research |
+| [She Codes](https://shecodes.io/) | Research | Python research |
+| [Geeks for Geeks](https://geeksforgeeks.org/) | Research | additional Python research |
+| [Pi](https:/www.pi.ai/talk) | Validation | additional Python research and checking for syntax and indentation errors |
+
 
 
 
