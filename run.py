@@ -32,3 +32,14 @@ def print_board():
       display_positon[i] = 'X'
     elif board[i] == 2:
       display_positon[i] = 'O'
+
+  print('''
+ ______________
+|  {} |  {} |  {} |
+|____|____|____|
+|  {} |  {} |  {} |
+|____|____|____|  
+|  {} |  {} |  {} |
+|____|____|____|        
+
+'''.format(*display_positon))  
