@@ -47,24 +47,15 @@ def print_board():
 
 # Checks if player has won
 def check_win(num):
-    if board[0] == num and board[1] == num and board[2] == num:
-      return True
-    elif board[3] == num and board[4] == num and board[5] == num:
-      return True
-    elif board[6] == num and board[7] == num and board[8] == num:
-      return True
-    elif board[0] == num and board[3] == num and board[6] == num:
-      return True
-    elif board[1] == num and board[4] == num and board[7] == num:
-      return True
-    elif board[2] == num and board[5] == num and board[8] == num:
-      return True
-    elif board[0] == num and board[4] == num and board[8] == num:
-      return True
-    elif board[2] == num and board[4] == num and board[6] == num:
-      return True
-    else:
-      return False
+    win_combinations = [
+        [0, 1, 2], [3, 4, 5], [6, 7, 8],  # rows
+        [0, 3, 6], [1, 4, 7], [2, 5, 8],  # columns
+        [0, 4, 8], [2, 4, 6]              # diagonals
+    ]
+    for combo in win_combinations:
+        if all(board[i] == num for i in combo):
+            return True
+    return False
 
 # Turn counter
 turn = 0
