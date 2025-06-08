@@ -31,7 +31,7 @@
 
 - The Typography is limited to the terminal font used within the basic Heroku utility.
 
-## 🎯 User Stories
+# 🎯 User Stories
 As a user, I want a clear introduction and instructions so I can understand how to play.
 
 As a user, I want to play on different board sizes for variety.
@@ -45,7 +45,7 @@ As a user, I want to replay the game without restarting the program.
 As a user, I want a message for wins and draws so I know when the game ends.
 
 
-## 🧭 User Experience (UX)
+# 🧭 User Experience (UX)
 Simple CLI interface for ease of use.
 
 Dynamic board rendering depending on selected size.
@@ -57,7 +57,7 @@ Replay option included at the end of every round.
 Input validation ensures smooth, error-free experience.
 
 
-## ✨ Features
+# ✨ Features
 ✅ Existing Features
 | Feature              | Description                                |
 | -------------------- | ------------------------------------------ |
@@ -69,7 +69,7 @@ Input validation ensures smooth, error-free experience.
 | Win & Draw Detection | Declares outcome clearly.                  |
 
 
-## 📷 Few Ingame Screenshots
+# 📷 Few Ingame Screenshots
 
 | Feature | Description | Screenshot |
 | :---: | :---: | :---: |
@@ -79,7 +79,7 @@ Input validation ensures smooth, error-free experience.
 | **Already taken position** | Players are not allowed to repeat same number twice or use letter. | ![already taken position](https://github.com/user-attachments/assets/56aebd44-2fbc-43d5-95b2-3bf9cd40200c)|
 | **Player wins** | Wining message. | ![Player wins](https://github.com/user-attachments/assets/b541405f-9ebe-442b-a319-f960ea6dcf27)|
 
-## Tools & Technologies Used
+🛠️ # Tools & Technologies Used
 
 - [Python](https://www.python.org/) used for the main program content.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`,`git pull`)
@@ -88,7 +88,7 @@ Input validation ensures smooth, error-free experience.
 - [Pi] (https:/www.pi.ai/talk) used for finding faults with syntax and indentation.
 
 
-## 🧪 Testing
+# 🧪 Testing
 All game functionality was manually tested through CLI.
 
 Key Tests Performed:
@@ -105,9 +105,9 @@ Key Tests Performed:
 ✅ PEP8 compliance checked with CI linter
 
 
-## Code Validation
+# Code Validation
 
-### Python
+### Python 🐍
 
 I have used the recommended [PEP8 Validaton](https://pep8ci.herokuapp.com/#) to validate my Python file.
 
@@ -115,15 +115,14 @@ I have used the recommended [PEP8 Validaton](https://pep8ci.herokuapp.com/#) to 
 | :---: | :---: | :---: |
 | Index | ![code validatation](documentation/validation.png)| All clear, no errors found.|
 
-## Deployment
+# 🚀 Deployment
+The app is hosted on Heroku.
+You can play the game directly in the deployed CLI app:
 
-The site was deployed to Heroku.
+- [Heroku App Link](https://dinok94-xs-and-xo-project-929df1ab38b5.herokuapp.com/)
 
-- In the [Heroku](https://dashboard.heroku.com/apps/dinok94-xs-and-xo-project/deploy/github)
-
-## Credits
-
-The following are credits to various people and technologies that have directly or otherwise assisted in the creation of this game.
+# 📚 Credits
+## Content & Learning Resources
 
 ### Content and Code
 
@@ -137,7 +136,14 @@ The following are credits to various people and technologies that have directly 
 | [Pi](https:/www.pi.ai/talk) | Validation | additional Python research and checking for syntax and indentation errors |
 
 
+# 🔮 Future Improvements
+Add difficulty levels to AI
 
+Implement online multiplayer
+
+Save match results and stats
+
+Add a GUI version using Tkinter or PyGame
 
 
  
