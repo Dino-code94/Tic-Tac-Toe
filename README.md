@@ -63,7 +63,7 @@ I have used the recommended [PEP8 Validaton](https://pep8ci.herokuapp.com/#) to 
 
 | Page | Screenshot | Notes |
 | :---: | :---: | :---: |
-| Index | ![code validatation](https://github.com/user-attachments/assets/f888cf71-d254-4877-aadc-148dd9948820)| All clear, no errors found.|
+| Index | ![code validatation](documentation/validation.png)| All clear, no errors found.|
 
 ## Deployment
 
