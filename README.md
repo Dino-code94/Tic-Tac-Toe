@@ -55,6 +55,24 @@ Unfortunately , I haven't had the chance to get any actual feedback from friends
 - [Heroku](https://www.heroku.com) used for hosting the deployed front-end site.
 - [Pi] (https:/www.pi.ai/talk) used for finding faults with syntax and indentation.
 
+
+## 🧪 Testing
+All game functionality was manually tested through CLI.
+
+Key Tests Performed:
+✅ Valid and invalid inputs
+
+✅ Draw conditions on full board
+
+✅ Win detection across all board sizes
+
+✅ AI placement and response
+
+✅ Replay prompt after game end
+
+✅ PEP8 compliance checked with CI linter
+
+
 ## Code Validation
 
 ### Python
