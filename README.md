@@ -59,7 +59,7 @@ Unfortunately , I haven't had the chance to get any actual feedback from friends
 
 ### Python
 
-I have used the [Pythonium](https://pythonium.net/linter) to validate my Python syntax.
+I have used the recommended [PEP8 Validaton](https://pep8ci.herokuapp.com/#) to validate my Python file.
 
 | Page | Screenshot | Notes |
 | :---: | :---: | :---: |
