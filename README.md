@@ -44,6 +44,19 @@ As a user, I want to replay the game without restarting the program.
 
 As a user, I want a message for wins and draws so I know when the game ends.
 
+
+## 🧭 User Experience (UX)
+Simple CLI interface for ease of use.
+
+Dynamic board rendering depending on selected size.
+
+Draw and win detection with clear output.
+
+Replay option included at the end of every round.
+
+Input validation ensures smooth, error-free experience.
+
+
 ## ✨ Features
 ✅ Existing Features
 | Feature              | Description                                |
