@@ -31,9 +31,18 @@
 
 - The Typography is limited to the terminal font used within the basic Heroku utility.
 
-## User Stories
+## 🎯 User Stories
+As a user, I want a clear introduction and instructions so I can understand how to play.
 
-Unfortunately , I haven't had the chance to get any actual feedback from friends or from the family.
+As a user, I want to play on different board sizes for variety.
+
+As a user, I want to challenge an AI if I don’t have a second player.
+
+As a user, I want the game to validate my input so I don't break it.
+
+As a user, I want to replay the game without restarting the program.
+
+As a user, I want a message for wins and draws so I know when the game ends.
 
 ## ✨ Features
 ✅ Existing Features
