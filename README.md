@@ -35,9 +35,19 @@
 
 Unfortunately , I haven't had the chance to get any actual feedback from friends or from the family.
 
-## Features
+## ✨ Features
+✅ Existing Features
+| Feature              | Description                                |
+| -------------------- | ------------------------------------------ |
+| Welcome Message      | Welcomes the user and explains the rules.  |
+| Board Selection      | Users can choose 3x3, 4x4, or 5x5 board.   |
+| AI Mode              | Optional AI opponent for solo play.        |
+| Input Validation     | Prevents invalid entries or taken spots.   |
+| Replay Option        | Restart the game without rerunning script. |
+| Win & Draw Detection | Declares outcome clearly.                  |
 
-### Existing Features
+
+## 📷 Few Ingame Screenshots
 
 | Feature | Description | Screenshot |
 | :---: | :---: | :---: |
